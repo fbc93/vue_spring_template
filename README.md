@@ -1,2 +1,2 @@
-# vue_spring_template
-Vue + Spring Project Template
+# vue_spring 템플릿
+
